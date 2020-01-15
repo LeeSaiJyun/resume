@@ -59,5 +59,5 @@
 	- xunsearch全文搜索（自定义分词、同义词）
 	- Redis实现高并发锁
 
-### 二维码访问
-![二维码访问](http://qr.topscan.com/api.php?text=https://leesaijyun.github.io/resume/ "二维码访问")
+### 手机访问
+![二维码访问](http://qr.topscan.com/api.php?text=https://leesaijyun.github.io/resume&w=150&m=10 "二维码访问")
