@@ -85,6 +85,6 @@
 
 
 ### 手机访问
-![二维码访问](http://qr.topscan.com/api.php?text=https://leesaijyun.github.io/resume&w=150&m=10 "二维码访问")
+![二维码访问](http://dianbole.cn/qrcode/build?text=https%3A%2F%2Fleesaijyun.github.io%2Fresume "二维码访问")
 
 
